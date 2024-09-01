@@ -2,7 +2,7 @@
 
 **Akcpetujemy zadania tylko w TypeScript/JavaScript!**
 
-### Opis projektu
+### Opis zadania
 Twoim zadaniem jest przygotowanie REST API do zarządzania koktajlami i jego składnikami. Każdy koktajl posiada składniki z których się go robi. Z pomocą aplikacji mamy być w stanie utworzyć, edytować, wyświetlić i usunąć koktajle i składniki. W skrócie powinniśmy zaimplementować pełnego CRUDa koktajli i składników.
 
 ### Koktajl
@@ -27,3 +27,5 @@ Każdy składnik posiada minimim:
 - wsparcie dla filtrowania i sortowania endpointów
 - testy automatyczne
 - dokumentacja
+
+**W razie problemów zapraszamy do kontaktu i powodzenia!**
