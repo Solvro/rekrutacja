@@ -15,6 +15,9 @@
   - [Social Media](./socialmedia.md)
 --- 
 
+#### Motyw
+Motywem rekrutacji są koktajle. Istnieje ich wiele, a przez życie studenckie wielu z nich spóbujemy, ale żeby receptury ich przygotowania nie zanikły przygotujmy wspólnie rozwiązanie do ich przechowywania i przeglądania. Każdy koktajl posiada instrukcje i składniki wraz z ilościami użycia. W działalności KN Solvro każda sekcja ma istotny wpływ na powodzenie całego projektu, którego potem prezentujemy społeczności studenckiej. Tak samo przy tym zadaniu, każda sekcja skupia się na swojej części, z których potem powstaje spójna całość.
+
 #### Kontakt
 W razie jakichkoliwek pytań skontaktuj się z nami, chętnie pomożemy i odpowiemy.
 - Facebook: https://www.facebook.com/knsolvro/
