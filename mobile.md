@@ -33,6 +33,8 @@ Do wykonania zadania możesz wykorzystać dowolnie wybrane biblioteki i paczki.
 **DISCLAIMER:** większość naszych mobilnych projektów jest we Flutterze, ale zadanie można wykonać też w natywnych technologiach, które są bardzo dobrym backgroundem do pracy z Flutterem. 
 
 ## Nice to have (opcjonalne funkcje)
+_Aby zbodyć "dodatkowe punkty" możesz wykonać dowolnie wybrane opcjonalne funckjonalności z poniższej listy. Pamiętaj, żeby je wypisać w README projektu._
+
 - Filtrowanie koktajli.
 - Sortowanie wyników.
 - Użyj do tego dowolnie wybranych pól, które udostępnia API i uważasz je za przydatne dla użytkownika.
@@ -43,8 +45,7 @@ Do wykonania zadania możesz wykorzystać dowolnie wybrane biblioteki i paczki.
 - Mechanizm ulubionych - oznaczanie (serduszkowanie, lajkowanie, itd.) poszczególnych pozycji z zapisem stanu w "local storage" 
 
 
-**Masz pytanie? Napisz do nas kn.solvro@pwr.edu.pl!** lub otwórz issue na repozytorium. 
+**Masz pytanie? Napisz do nas kn.solvro@pwr.edu.pl lub otwórz issue na repozytorium.**
 
 
-Uważasz,że treść zadania wymaga zmiany? Zforkuj repozytorium i otwórz Pull Requesta. 
-
+Pull Requesty z propozycją zmian treści zadania również mile widziane.
