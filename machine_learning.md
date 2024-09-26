@@ -2,7 +2,7 @@
 Zadanie rekrutacyjne do sekcji uczenia maszynowego Koła Naukowego Solvro. 
 
 ## Opis zadania
-Wyzwanie polega na eksploracyjnej analizy danych podanego zbioru oraz przeprowadzeniu jego klasteryzacji. Rozwiązanie zadania wymaga wyczyszczenia i odpowiedniego przygotowania zbioru.
+Zadanie polega na eksploracyjnej analizie danych oraz klasteryzacji podanego zbioru. Rozwiązanie wymaga wyczyszczenia i odpowiedniego przygotowania tego zbioru.
 
 ## Zbiór danych
 Zbiór pochodzi z bazy danych TheCocktailDB. Składa się on z listy koktajli oraz składników potrzebnych do ich przyrządzenia. Celem zadania jest przeprowadzenie analizy eksploracyjnej oraz klasteryzacji tego zbioru. Znajduje się on w folderze `data`.
