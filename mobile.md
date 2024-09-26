@@ -1,4 +1,5 @@
 # Mobile
+Zadanie rekrutacyjne do sekcji aplikacji mobilnych Koła Naukowego Solvro. 
 
 ## Termin wykonania zadania:
 <!-- Dodaj termin wykonania zadania -->
@@ -11,29 +12,39 @@ Aplikacja mobilna wyświetlająca listę drinków wraz ze składnikami, zdjęcia
 
 ## MVP (Minimum Viable Product) - Must have
 - Wyświetlanie listy koktajli (zdjęcie, tytuł).
-- Wyświetlanie szczegółów wybranego drinka (składniki i inne dane).
+- Wyświetlanie szczegółów wybranego drinka (składniki i inne dane). 
+- Wyszukiwanie drinków na liście (conajmniej po nazwie). 
+
 
 ## Wymagania
-- Aplikacja musi korzystać z zewnętrznego [API](https://cocktails.solvro.pl/) lub z innego o zbliżonych możliwościach
-- Kod aplikacji musi być czytelny i dobrze podzielony na komponenty.
-- Responsywność i dostosowanie do różnych urządzeń (w zakresie urządzeń mobilnych + tablety).
+- Aplikacja musi korzystać z naszego [Coctail API](https://cocktails.solvro.pl/) lub z innego o zbliżonych możliwościach
+- Kod aplikacji musi być czytelny i dobrze podzielony na komponenty/widgety/warstwy.
+- Responsywność i dostosowanie do różnych urządzeń (w zakresie urządzeń mobilnych + tablety dobrze widziane).
 - Funkcjonalny i intuicyjny design. Nie musi być ekstremalnie wystylizowany :-) 
-- Dołącz dobrze napisane README z opisem technologii, funkcji aplikacji oraz screenshotami.
-- Korzystanie z gotowych komponentów lub bibliotek z komponentami jest mile widziane. 
+- Korzystanie z gotowych komponentów lub bibliotek z komponentami jest dopuszczalne i mile widziane.
+- Dołącz dobrze napisane README z krótkim opisem technologii, funkcji aplikacji oraz kilkoma screenshotami. 
 
 ## Technologie
 - **Flutter** (rekomendowane)
 - **Kotlin**, **Swift**, **Kotlin Multiplatform** (alternatywy)
 
-**DISCLAIMER:** większość naszych mobilnych projektów jest we Flutterze, ale zadanie można wykonać też w natywnych technologiach, które są bardzo dobry backgroundem do pracy z Flutterem.
+Do wykonania zadania możesz wykorzystać dowolnie wybrane biblioteki i paczki. 
+
+**DISCLAIMER:** większość naszych mobilnych projektów jest we Flutterze, ale zadanie można wykonać też w natywnych technologiach, które są bardzo dobrym backgroundem do pracy z Flutterem. 
 
 ## Nice to have (opcjonalne funkcje)
 - Filtrowanie koktajli.
 - Sortowanie wyników.
-- Użyj innych wybranych pól, które zwraca API i uważasz je za przydatne dla użytkownika.
+- Użyj do tego dowolnie wybranych pól, które udostępnia API i uważasz je za przydatne dla użytkownika.
 - Paginacja w wersji `Infinite Scroll`
-- Podstawy dla prostego wsparcia wielu języków (np. polski, angielski).
-- Cache danych dla lepszej wydajności.
-- Mechanizm ulubionych - oznaczanie (serduszkowanie, lajkowanie, itd.) poszczególnych pozycji z zapisem do `local storage`
+- Debouncing zapytań przy wyszukiwaniu 
+- Zadbaj o podstawy dla prostego wsparcia wielu języków (np. polski, angielski). Nie musisz faktycznie dodawać wielu tłumaczeń. 
+- Cache danych dla mniejszego obciążenia serwera i zwiększenia wydajności w słabych warunkach internetowych. W dowolnej funkcjonalnej formie - nie musisz wymyślać zaawansowanych strategii inwalidacji cache'u.
+- Mechanizm ulubionych - oznaczanie (serduszkowanie, lajkowanie, itd.) poszczególnych pozycji z zapisem stanu w "local storage" 
 
-**Masz pytanie? Napisz do nas kn.solvro@pwr.edu.pl!**
+
+**Masz pytanie? Napisz do nas kn.solvro@pwr.edu.pl!** lub otwórz issue na repozytorium. 
+
+
+Uważasz,że treść zadania wymaga zmiany? Zforkuj repozytorium i otwórz Pull Requesta. 
+
