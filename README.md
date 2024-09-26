@@ -13,6 +13,7 @@
   - [UI/UX designer](./uiux.design.md)
   - [Project Manager](./projectmanager.md)
   - [Social Media](./socialmedia.md)
+  - [Machine Learning](./machine_learning.md)
 --- 
 
 #### Motyw
