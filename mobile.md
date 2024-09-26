@@ -19,6 +19,7 @@ Aplikacja mobilna wyświetlająca listę drinków wraz ze składnikami, zdjęcia
 - Responsywność i dostosowanie do różnych urządzeń (w zakresie urządzeń mobilnych + tablety).
 - Funkcjonalny i intuicyjny design. Nie musi być ekstremalnie wystylizowany :-) 
 - Dołącz dobrze napisane README z opisem technologii, funkcji aplikacji oraz screenshotami.
+- Korzystanie z gotowych komponentów lub bibliotek z komponentami jest mile widziane. 
 
 ## Technologie
 - **Flutter** (rekomendowane)
@@ -29,6 +30,7 @@ Aplikacja mobilna wyświetlająca listę drinków wraz ze składnikami, zdjęcia
 ## Nice to have (opcjonalne funkcje)
 - Filtrowanie koktajli.
 - Sortowanie wyników.
+- Użyj innych wybranych pól, które zwraca API i uważasz je za przydatne dla użytkownika.
 - Paginacja w wersji `Infinite Scroll`
 - Podstawy dla prostego wsparcia wielu języków (np. polski, angielski).
 - Cache danych dla lepszej wydajności.
