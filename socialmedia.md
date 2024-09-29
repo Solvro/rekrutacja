@@ -1,6 +1,6 @@
 # 📝 Zadanie rekrutacyjne Solvro
 
-## Witamy w Zadaniu Rekrutacyjnym Solvro! 🍹
+## Witamy w zadaniu do sekcji #SocialMedia! 🍹
 
 Praca w social mediach to codzienność pełna niezwykłych wyzwań i zadań, które wymagają kreatywności oraz nieszablonowego myślenia. Dlatego nasze zadanie rekrutacyjne również jest nietypowe i pozwala Ci pokazać, jak radzisz sobie z niekonwencjonalnymi pomysłami.
 
