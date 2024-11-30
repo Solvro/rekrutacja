@@ -30,4 +30,8 @@ Jeśli nie znalazłeś obaszaru swoich zainteresowań napisz do nas, a na pewno 
 #### Odsyłanie zadań
 Linki do gotowych zadań powinny zostać odesłane za pomocą formularza https://forms.gle/SfN3Jm6tjXGnzjzX9.
 
+#### Linki
+
+[![docs.solvro.pl](https://i.imgur.com/fuV0gra.png)](https://docs.solvro.pl)
+
 **Powodzenia!**
