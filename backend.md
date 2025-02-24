@@ -14,7 +14,7 @@ Każdy koktajl zawiera minimum:
 - składniki wraz z ilościami potrzebnymi do utworzenia
 
 ### Składnik
-Każdy składnik posiada minimim:
+Każdy składnik posiada minimum:
 - id 
 - nazwę
 - opis
