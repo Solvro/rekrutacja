@@ -1,6 +1,6 @@
 # Backend
 
-**Ze względu na to, że w naszych projektach pracujemy głównie we frameworkach JavaScriptu akceptujemy zadania tylko w TypeScript/JavaScript.**
+**Ze względu na to, że w naszych projektach pracujemy głównie we frameworkach JavaScriptu akceptujemy zadania tylko w TypeScript/JavaScript. W kole używamy głównie [AdonisJS](https://docs.adonisjs.com/guides/preface/introduction), ale nie przejmuj się jeśli go nie znasz, nauczysz się go z nami w pierwszych tygodniach, chociaż zachęcamy do podjęcia rękawic i spróbowania już podczas rekrutacji😉**
 
 ### Opis zadania
 Twoim zadaniem jest przygotowanie REST API do zarządzania koktajlami i jego składnikami. Każdy koktajl posiada składniki z których się go robi. Z pomocą aplikacji mamy być w stanie utworzyć, edytować, wyświetlić i usunąć koktajle i składniki. W skrócie powinniśmy zaimplementować pełnego CRUDa koktajli i składników.
