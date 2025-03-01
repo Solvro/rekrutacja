@@ -14,14 +14,21 @@ Nie oczekujemy od Ciebie, że będziesz mistrzem prowadzenia wielkich kampanii m
 ### Pytania 🤔
 
 **Koktajle:**
-1. **Stwórz nowy koktajl, który idealnie odzwierciedla ducha Twojej metodyki pracy. Jakie składniki dodasz, aby ten drink był wyjątkowy i jak go nazwiesz?**
-2. **Opowiedz o swoim ulubionym koktajlu. Dlaczego ten drink jest dla Ciebie szczególny i w jakich okolicznościach najlepiej się nim delektować? Z czym przede wszystkim kojarzy Ci się jego smak?**
-3. **Wyobraź sobie, że koktajle zyskały osobowość. Opisz, jaką osobowość miałyby trzy dowolnie wybrane przez Ciebie koktaile.**
+1️⃣ **Stwórz nowy koktajl, który idealnie odzwierciedla ducha Twojej metodyki pracy. Jakie składniki dodasz, aby ten drink był wyjątkowy i jak go nazwiesz?**
+2️⃣ **Opowiedz o swoim ulubionym koktajlu. Dlaczego ten drink jest dla Ciebie szczególny i w jakich okolicznościach najlepiej się nim delektować? Z czym przede wszystkim kojarzy Ci się jego smak?**
+3️⃣ **Wyobraź sobie, że koktajle zyskały osobowość. Opisz, jaką osobowość miałyby trzy dowolnie wybrane przez Ciebie koktaile.**
 
 **Pozostałe pytania:**
-1. **Właśnie zdobyłeś(-aś) prawo do nadawania gwiazdom nazw i wręczania ludziom certyfikatów z ich imieniem. Jak wypromujesz ten pomysł wśród przyszłych "właścicieli gwiazd"?**
-2. **Masz możliwość zmiany nazwy dowolnej ulicy w wybranym mieście. Jakie miejsce wybierzesz, jaką nazwę nadasz i co będzie ona symbolizować?**
-3. **Jaki rzeczownik pospolity najlepiej nadawałby się na imię? Wyobraź sobie, że to słowo faktycznie staje się imieniem. Jakie cechy przypisałbyś jego posiadaczom na podstawie samej fonetyki?**
+1️⃣  Zatrudniono cię przy produkcji nowego serialu (tematyka pozostaje do wyboru: fantasy, superhero, obyczajowy itd.) – twoje zadanie jest proste, ale i bardzo ważne – musisz wymyślić głównego super-złoczyńcę serii! Jak by wyglądał? Zachowywał się? Jakie miałby motywacje? Słabości? Moce?
+
+2️⃣ Duża firma informatyczna postanowiła skorzystać z twoich usług consultingowych. Chcieliby nauczyć się tworzyć idealne zespoły w pracy. Ile taki zespół powinien zawierać osób? Jakie archetypy charakterów powinny znaleźć się w każdym zespole?
+
+3️⃣  Clickbaity to prawdziwa broń naszych czasów. Na jakie clickbaity najczęściej się łapiesz? Jakie są twoje „ulubione”? Wybierz kilka (2-5) i opisz krótko, dlaczego je wybrałeś i jak rozumiesz mechanizm ich działania.
+
+4️⃣  Poproszono cię o poprowadzenie prelekcji na temat AI dla grupy dwunastolatków. Z lekkim niedowierzaniem patrzysz na temat prezentacji – „Dlaczego AI ma zabronione odpowiadanie na niektóre pytania?”.  Jak przedstawisz ten temat dzieciom z podstawówki?
+
+5️⃣  Znudzony życiem milioner porzucił swoją firmę i postanowił zostać artystą muzycznym. Wymyślił kompletnie nowy gatunek Jazz Polo (połączenie delikatnego brzmienia jazzowej muzyki ze skocznymi tanecznymi dźwiękami disco polo). Ma teraz tylko jeden cel – zostać sławnym. Milioner ten poprosił cię o poprowadzenie kampanii dla jego kariery muzycznej; pieniądze nie grają roli, jest w końcu milionerem. Jak poprowadzisz tego niszowego artystę na szczyt sceny muzycznej? 
+*
 
 ### Czego szukamy? 👀
 Interesują nas:
