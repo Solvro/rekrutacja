@@ -14,11 +14,15 @@ Nie oczekujemy od Ciebie, że będziesz mistrzem prowadzenia wielkich kampanii m
 ### Pytania 🤔
 
 **Koktajle:**
+
 1️⃣ **Stwórz nowy koktajl, który idealnie odzwierciedla ducha Twojej metodyki pracy. Jakie składniki dodasz, aby ten drink był wyjątkowy i jak go nazwiesz?**
+
 2️⃣ **Opowiedz o swoim ulubionym koktajlu. Dlaczego ten drink jest dla Ciebie szczególny i w jakich okolicznościach najlepiej się nim delektować? Z czym przede wszystkim kojarzy Ci się jego smak?**
+
 3️⃣ **Wyobraź sobie, że koktajle zyskały osobowość. Opisz, jaką osobowość miałyby trzy dowolnie wybrane przez Ciebie koktaile.**
 
 **Pozostałe pytania:**
+
 1️⃣  Zatrudniono cię przy produkcji nowego serialu (tematyka pozostaje do wyboru: fantasy, superhero, obyczajowy itd.) – twoje zadanie jest proste, ale i bardzo ważne – musisz wymyślić głównego super-złoczyńcę serii! Jak by wyglądał? Zachowywał się? Jakie miałby motywacje? Słabości? Moce?
 
 2️⃣ Duża firma informatyczna postanowiła skorzystać z twoich usług consultingowych. Chcieliby nauczyć się tworzyć idealne zespoły w pracy. Ile taki zespół powinien zawierać osób? Jakie archetypy charakterów powinny znaleźć się w każdym zespole?
