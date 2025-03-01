@@ -7,7 +7,7 @@ Praca w social mediach to codzienność pełna niezwykłych wyzwań i zadań, kt
 Nie oczekujemy od Ciebie, że będziesz mistrzem prowadzenia wielkich kampanii marketingowych czy zarządzania zespołem kilkunastu osób – tego nauczysz się w Solvro! Chcemy natomiast zobaczyć Twoją kreatywność, otwartość i odwagę w dzieleniu się swoimi pomysłami. Wybierz dwa z poniższych pytań i odpowiedz na nie w dowolnej formie artystycznej – od krótkiego tekstu, przez esej, po freestyle na wideo. **Przynajmniej jedno z wybranych pytań musi dotyczyć koktajli**. Im bardziej szalona odpowiedź, tym lepiej! 🌟
 
 ### Jak wziąć udział?
-1. Wybierz **dwa** z poniższych pytań, z czego **przynajmniej jedno o tematyce koktajli**.
+1. Wybierz **dwa** z poniższych pytań, z czego **jedno o tematyce koktajli oraz jedno z sekcji "Pozostałe pytania"**.
 2. Stwórz odpowiedź w dowolnym formacie: tekst pisany, wideo, ilustracja – ogranicza Cię tylko wyobraźnia!
 3. Prześlij swoją pracę za pomocą formularza: [https://forms.gle/SfN3Jm6tjXGnzjzX9](https://forms.gle/SfN3Jm6tjXGnzjzX9).
 
@@ -15,11 +15,15 @@ Nie oczekujemy od Ciebie, że będziesz mistrzem prowadzenia wielkich kampanii m
 
 **Koktajle:**
 
-1️⃣ **Stwórz nowy koktajl, który idealnie odzwierciedla ducha Twojej metodyki pracy. Jakie składniki dodasz, aby ten drink był wyjątkowy i jak go nazwiesz?**
+1️⃣ Tworzysz zupełnie nowy koktajl, który stanie się hitem sezonu! Jak się nazywa? Jakie ma składniki? Jak smakuje i dla kogo jest przeznaczony?
 
-2️⃣ **Opowiedz o swoim ulubionym koktajlu. Dlaczego ten drink jest dla Ciebie szczególny i w jakich okolicznościach najlepiej się nim delektować? Z czym przede wszystkim kojarzy Ci się jego smak?**
+2️⃣ Jesteś barmanem w ekskluzywnym barze, do którego przychodzą postacie z popkultury. Jaki koktajl podałbyś Batmanowi? A może Voldemortowi? Wymyśl trzy unikalne drinki inspirowane znanymi postaciami.
 
-3️⃣ **Wyobraź sobie, że koktajle zyskały osobowość. Opisz, jaką osobowość miałyby trzy dowolnie wybrane przez Ciebie koktaile.**
+3️⃣ Zadanie dla smakosza: musisz stworzyć koktajl, który najlepiej oddaje twoją osobowość. Jakie składniki byś wybrał(a) i dlaczego? Jak nazwałbyś(-abyś) swój drink?
+
+4️⃣ Świat stoi u progu apokalipsy, a ty masz ostatnią noc w ulubionym barze. Jaki koktajl zamawiasz i dlaczego właśnie ten? Czy to drink pełen nostalgii, czy może coś ekstrawaganckiego na wielki finał?
+
+5️⃣ Jesteś twórcą nowej linii koktajli zero-waste, które powstają wyłącznie z resztek owoców i warzyw. Jakie ciekawe połączenia smakowe byś wymyślił(a)? Jakie składniki z kuchennych odpadków mogą zamienić się w wyjątkowy drink?
 
 **Pozostałe pytania:**
 
@@ -32,7 +36,6 @@ Nie oczekujemy od Ciebie, że będziesz mistrzem prowadzenia wielkich kampanii m
 4️⃣  Poproszono cię o poprowadzenie prelekcji na temat AI dla grupy dwunastolatków. Z lekkim niedowierzaniem patrzysz na temat prezentacji – „Dlaczego AI ma zabronione odpowiadanie na niektóre pytania?”.  Jak przedstawisz ten temat dzieciom z podstawówki?
 
 5️⃣  Znudzony życiem milioner porzucił swoją firmę i postanowił zostać artystą muzycznym. Wymyślił kompletnie nowy gatunek Jazz Polo (połączenie delikatnego brzmienia jazzowej muzyki ze skocznymi tanecznymi dźwiękami disco polo). Ma teraz tylko jeden cel – zostać sławnym. Milioner ten poprosił cię o poprowadzenie kampanii dla jego kariery muzycznej; pieniądze nie grają roli, jest w końcu milionerem. Jak poprowadzisz tego niszowego artystę na szczyt sceny muzycznej? 
-*
 
 ### Czego szukamy? 👀
 Interesują nas:
