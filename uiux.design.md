@@ -10,7 +10,7 @@ Kolory oraz loga możesz znaleźć w folderze [assets](./assets/)
 
 ### Czego używamy w Solvro?
 - figma
-- photoshop
+- pakiet adobe
 - canva
 
 **W razie potrzeby uzyskania dodatkowych materiałów lub innych pytań odezwij się do nas!**
