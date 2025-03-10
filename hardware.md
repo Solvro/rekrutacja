@@ -4,7 +4,7 @@ Oto proponowane przez hardware zadania rekrutacyjne
 ## Zadanka
 
 1. Domino podejżewa, że Marcinek potajemnie podpija mu solnik. Zaznaczenie na garnku nic nie daje, marker się rozpuszcza, a garnek jest już tak porysowany, że ni gwizdek widać. Potrzebuje skombinować system, który będzie mógł łatwo założyć i sprawdzić, czy Marcinek nie upija solnika. Wymagania to: 
-    - prostota (domino nie należy do najbystrzejszyć) 
+    - prostota (domino nie należy do najbystrzejszych) 
     - cena (im bliżej darmo, tym bardziej uczciwie).
 
 2. Prezes Solvro bywa bardzo zabiegany. Do tego stopnia, że zapomina się dotlenić i przewietrzyć pokoju, gdy wylewa z siebie siódme poty. Zaproponuj rozwiązanie, które mu o tym skutecznie przypomni
