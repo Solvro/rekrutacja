@@ -4,7 +4,7 @@
 
 Dobry fundraiser to połączenie dyplomaty, gawędziarza i stratega. Potrafi dostrzec potencjał w pomyśle i ubrać go w słowa, które inspirują innych do działania i otwierają portfele. W Solvro wierzymy, że za każdym wielkim projektem stoją nie tylko zdolni wykonawcy, ale też osoby, które potrafią zapewnić mu odpowiednie zasoby.
 
-Komunikacja z firmami jest nieocenioną umiejętnością w życiu zawodowym, zarówno z perspektywy studenta poszukującego pracy jak i późniejszych stanowisk. Działając w tym zakresie poznasz wrocławski i nie tylko rynek firm głównie IT oraz będziesz miał możliwość kontaktu z decyzyjnymi osobami tych firmach. 
+Komunikacja z firmami jest nieocenioną umiejętnością w życiu zawodowym, zarówno z perspektywy studenta poszukującego pracy jak i późniejszych stanowisk. Działając w tym zakresie poznasz wrocławski i nie tylko rynek firm głównie IT oraz będziesz miał* możliwość kontaktu z decyzyjnymi osobami tych firmach. 
 
 Przygotowaliśmy dla Ciebie drobne zadanie rekrutacyjne, w którym chcemy zobaczyć, jak podchodzisz do budowania relacji i przekonywania innych do wsparcia wartościowej inicjatywy.
 
@@ -21,8 +21,8 @@ Każdy z tych filarów posiada własne potrzeby i charakterystyki działania. Tw
 
 ### Zawartość
 
-Oferta może być w formie krótkiego dokumentu lub jeśli czujesz się na siłach to w formie graficznej. Powinna ona zawierać minimum:
-- promocyjne przedstawienie wybranego filaru
-- przedstawienie wartości dla partnera
-- min. 3 poziomy partnerstwa
+Efektem zadania powinna być oferta partnerska w formie pdf. Może zawierać sam tekst, ale zachęcamy uwzględnić również szatę graficzną np. w formie atrakcyjnej prezentacji. Oferta powinna zawierać minimum:
+- przedstawienie wybranego filaru
+- pokazanie wartości dla partnera
+- 3 poziomy partnerstwa, w każdym zaproponuj co możemy zaoferować partnerowi i czego oczekiwalibyśmy w zamian
 - określenie grupy docelowej z przykładem 3 potencjalnych firm. 
