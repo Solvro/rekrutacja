@@ -27,9 +27,6 @@ W razie jakichkoliwek pytań skontaktuj się z nami, chętnie pomożemy i odpowi
 
 Jeśli nie znalazłeś obaszaru swoich zainteresowań napisz do nas, a na pewno coś się dla ciebie znajdzie!
 
-#### Odsyłanie zadań
-Linki do gotowych zadań powinny zostać odesłane za pomocą formularza https://forms.gle/b8EekiFMyUxMR7Lk8.
-
 #### Linki
 
 [![docs.solvro.pl](https://i.imgur.com/fuV0gra.png)](https://docs.solvro.pl)
