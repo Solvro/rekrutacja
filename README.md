@@ -7,13 +7,17 @@
 #### W ramach rekrutacji stworzyliśmy zadania z różnych kategorii:
 ---
   - [Frontend](./frontend.md)
-  - [Mobile](./mobile.md)
   - [Backend](./backend.md)
+  - [Mobile](./mobile.md)
   - [DevOps](./devops.md)
-  - [UI/UX designer](./uiux.design.md)
-  - [Project Manager](./projectmanager.md)
+  - [UI/UX](./uiux.design.md)
+
+  - [AI/ML](./aiml.md)
+  - [Hardware](./hardware.md)
+
+  - [Project Management](./projectmanagement.md)
   - [Promotion](./promotion.md)
-  - [Machine Learning](./machine_learning.md)
+  - [Fundraising](./fundraising.md)
 --- 
 
 #### Motyw
