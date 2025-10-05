@@ -7,7 +7,7 @@ Jeśli czujesz się na siłach lub nie możesz się zdecydować, możesz oczywi�
 ### [Applied AI](ai_ml/applied_ai.md)
 Celem zadania jest implementacja *Model Context Protocol* (MCP) i stworzenie dla niego narzędzia typu RAG. Więcej info w [pliku](ai_ml/applied_ai.md).
 
-### [Research](ai_ml/cv.md)
+### [Research](ai_ml/research.md)
 
 Zadanie będzie prawdopodobnie dotyczyło uczenia sieci neuronowych przetwarzania obrazów medycznych. Proponowany stack: `torch` / `lightning`. Więcej info niebawem.
 
