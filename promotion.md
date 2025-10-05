@@ -1,8 +1,8 @@
 # 📝 Zadanie rekrutacyjne Solvro
 
-## Witamy w zadaniu do sekcji #SocialMedia! 🍹
+## Witamy w zadaniu do sekcji #Promotion! 🍹
 
-Praca w social mediach to codzienność pełna niezwykłych wyzwań i zadań, które wymagają kreatywności oraz nieszablonowego myślenia. Dlatego nasze zadanie rekrutacyjne również jest nietypowe i pozwala Ci pokazać, jak radzisz sobie z niekonwencjonalnymi pomysłami.
+Działanie w promocji to codzienność pełna niezwykłych wyzwań i zadań, które wymagają kreatywności oraz nieszablonowego myślenia. Dlatego nasze zadanie rekrutacyjne również jest nietypowe i pozwala Ci pokazać, jak radzisz sobie z niekonwencjonalnymi pomysłami.
 
 Nie oczekujemy od Ciebie, że będziesz mistrzem prowadzenia wielkich kampanii marketingowych czy zarządzania zespołem kilkunastu osób – tego nauczysz się w Solvro! Chcemy natomiast zobaczyć Twoją kreatywność, otwartość i odwagę w dzieleniu się swoimi pomysłami. Wybierz dwa z poniższych pytań i odpowiedz na nie w dowolnej formie artystycznej – od krótkiego tekstu, przez esej, po freestyle na wideo. **Przynajmniej jedno z wybranych pytań musi dotyczyć koktajli**. Im bardziej szalona odpowiedź, tym lepiej! 🌟
 

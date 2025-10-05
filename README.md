@@ -9,13 +9,15 @@
   - [Frontend](./frontend.md)
   - [Backend](./backend.md)
   - [Mobile](./mobile.md)
-  - [AI/ML](./aiml.md)
   - [DevOps](./devops.md)
+  - [UI/UX](./uiux.design.md)
+
+  - [AI/ML](./aiml.md)
   - [Hardware](./hardware.md)
-  - [UI/UX designer](./uiux.design.md)
+
   - [Project Management](./projectmanagement.md)
+  - [Promotion](./promotion.md)
   - [Fundraising](./fundraising.md)
-  - [Social Media](./socialmedia.md)
 --- 
 
 #### Motyw
