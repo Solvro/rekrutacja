@@ -1,4 +1,4 @@
-# Machine learning
+# Artifical Intelligence / Machine Learning
 Zadanie rekrutacyjne do sekcji uczenia maszynowego Koła Naukowego Solvro. 
 
 ## Opis zadania
