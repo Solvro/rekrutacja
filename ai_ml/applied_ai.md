@@ -7,8 +7,6 @@ Celem zadania jest implementacja *Model Context Protocol* (MCP) i stworzenie dla
 
 Zbiór pochodzi z bazy danych *TheCocktailDB*. Składa się on z listy koktajli oraz składników potrzebnych do ich przyrządzenia. Znajduje się on w folderze `data`. Warto przeprowadzić analizę eksploracyjną zbioru danych.
 
-Protip: W kontekście analizy danych i uczenia maszynowego format `json` nie jest zbyt wygodny. Zaleca się np. skorzystanie z funkcji `pd.read_json()` z biblioteki `pandas`.
-
 ## Wymagania
 - Stworzenie MCP, na przykład za pomocą biblioteki takiej jak [FastMCP](https://gofastmcp.com/getting-started/welcome)
 - Stworzenie narzędzia RAG, które będzie w stanie odpowiedzieć na pytania dotyczące koktajli i ich składników, a także zasugerować koktajle na podstawie podanych składników lub preferencji smakowych. Można tutaj skorzystać z bibliotek takich jak [LangChain](https://python.langchain.com/docs/get_started/introduction.html) lub [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/index.html)
