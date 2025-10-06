@@ -12,7 +12,7 @@
   - [DevOps](./devops.md)
   - [UI/UX](./uiux.design.md)
 
-  - [AI/ML](./ai_ml.md)
+  - [Machine Learning](./machine_learning.md)
   - [Hardware](./hardware.md)
 
   - [Project Management](./projectmanagement.md)
