@@ -40,7 +40,7 @@ Jeśli masz czas i ochotę, możesz przeprowadzić dodatkowo:
 - implementację wybranych narzędzi wspierających pracę z danymi i modelami ML, np. DVC albo MLflow 
 - wdrożenie modelu - prosta aplikacja webowa czy API
 
-Wykonanie kilku wybranych punktów z powyższej listy wpłynie to pozytywnie na ocenę zadania :)
+Wykonanie kilku wybranych punktów z powyższej listy wpłynie pozytywnie na ocenę zadania :)
 
 ## Forma oddania
 Link do repozytorium ze skryptami, Jupyter notebookami i plikiem `README.md` opisującym jak odpalić repozytorium.
