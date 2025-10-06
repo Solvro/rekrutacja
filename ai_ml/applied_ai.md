@@ -15,3 +15,12 @@ Protip: W kontekście analizy danych i uczenia maszynowego format `json` nie jes
 - Dobra dokumentacja kodu i prezentacja przygotowanej aplikacji
 - Plik `README.md` z instrukcją uruchomienia narzędzia
 - Mile widziana będzie integracja z narzędziem takim jak *LMStudio* lub *Claude Desktop* w celu łatwego testowania aplikacji
+
+Standardem jest Python, ale jeśli wybierzesz inny język, to nie będzie to wpływało na ocenę zadania (o ile Twoje rozwiązanie spełni powyższe wymagania).
+
+## Forma oddania
+Link do repozytorium ze skryptami, Jupyter notebookami i plikiem `README.md` opisującym jak odpalić projekt.
+
+**Autorzy zadania**: Jakub Gilewicz i Daniel Borkowski.
+
+**Masz pytanie? Napisz do nas kn.solvro@pwr.edu.pl lub otwórz issue na repozytorium.**
