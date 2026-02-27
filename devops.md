@@ -194,6 +194,7 @@ Dla użytkowników Linuxa zalecamy wirtualizatory bazujące na QEMU/KVM i libvir
 #### Alternatywne sposoby dostępu
 
 - Jeżeli twój wirtualizator to wspiera, dodaj do maszyny wirtualnej port seryjny i skonfiguruj system tak, by wyświetlał na tym porcie konsolę
+  - Zaloguj się przez konsolę seryjną
 - Jeżeli twój wirtualizator to wspiera, dołącz maszynę do sieci VSOCK
   - Skonfiguruj serwer SSH, by nasłuchiwał na sieci VSOCK (protip: systemd)
   - Tymczasowo odłącz maszynę wirtualną od standardowej sieci Ethernet i połącz się z nią przez SSH poprzez sieć VSOCK
