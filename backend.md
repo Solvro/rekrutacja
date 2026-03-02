@@ -1,6 +1,6 @@
 # Backend
 
-**Ze względu na to, że w naszych projektach pracujemy na dwóch głównych technologiach, akceptujemy zadania w [NestJS](https://docs.nestjs.com/) (TypeScript) lub [Django](https://www.djangoproject.com/) (Python). Nie przejmuj się, jeśli ich dobrze nie znasz – nauczysz się ich z nami w pierwszych tygodniach, chociaż zachęcamy do podjęcia rękawic i spróbowania swoich sił w jednym z nich już podczas rekrutacji😉**
+**Ze względu na to, że w naszych projektach pracujemy na trzech głównych technologiach, akceptujemy zadania w [NestJS](https://docs.nestjs.com/) (TypeScript), [Django](https://www.djangoproject.com/) (Python) lub [adonis](https://adonisjs.com/) (TypeScript). Nie przejmuj się, jeśli ich dobrze nie znasz – nauczysz się ich z nami w pierwszych tygodniach, chociaż zachęcamy do podjęcia rękawic i spróbowania swoich sił w jednym z nich już podczas rekrutacji😉**
 
 ### Opis zadania
 
