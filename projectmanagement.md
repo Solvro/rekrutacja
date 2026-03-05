@@ -65,9 +65,6 @@ Przygotuj koncepcję koktajlu, wykorzystując zasady Design Thinking:
 - Czy dokument jest przejrzysty i dobrze zorganizowany?
 - Czy treść jest zrozumiała, klarowna i angażująca?
 
-## Jak dostarczyć rozwiązanie
-Soon-to-be announced
-
 ### Szybkie porady
 
 Jeżeli pierwszy raz stykacie się z tematem, warto zerknąć np. na artykuł  Asany na temat karty projektu: [Write a Project Charter: Example Guide [2025] • Asana](https://asana.com/resources/project-charter). Nie bójcie się też poszukać czegoś na własną rękę.
