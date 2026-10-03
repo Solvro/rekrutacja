@@ -40,56 +40,40 @@ Szybkie linki do poszczególnych zadań:
 
 ### Deploy aplikacji webowej
 
-Twoim zadaniem jest postawić lokalnie backend + frontend ToPWR, wraz z serwisami wspierającymi - faktyczną aplikację tworzoną przez KN Solvro.
+Twoim zadaniem jest napisać Dockerfile dla serwisu [web-solvro-docs](https://github.com/Solvro/web-solvro-docs) oraz go lokalnie postawić.
 
 - Wybierz dowolny sposób na postawienie serwisów za pomocą kontenerów - od ręcznego wywoływania Dockera/Podmana, przez Docker Compose lub webowe panele adminstracyjne, aż do Kubernetes.
   - Nie zalecamy stawiania nowego klastra Kubernetes tylko po to, by wykonać to zadanie - jednak jeżeli masz już własny klaster, to śmiało z niego korzystaj!
-- Do postawienia masz dwa główne serwisy: [backend](https://github.com/Solvro/backend-topwr) i [frontend](https://github.com/Solvro/web-topwr), wraz z serwisami wspierającymi. (baza danych, itp)
-- **Upewnij się, że dane zapisane w serwisach nie zostaną utracone po usunięciu i utworzeniu ponownym kontenerów!**
 - Serwisy powinny działać chociaż lokalnie i być dostępne poprzez standardową przeglądarkę bez podawania portu. HTTPS mile widziany.
   - Jeżeli masz publiczny adres IPv4 lub IPv6, albo serwer w chmurze, możesz serwisy wystawić publicznie.
     W takim przypadku przypisz serwis do odpowiednich domen.
     Jeżeli nie masz własnej domeny, napisz do nas - wydzielimy ci subdomenę w rekrutacja.solvro.pl.
   - Jeżeli nie masz publicznego adresu IP, "utwórz" własną domenę edytując plik `/etc/hosts`, lub użyj subdomen `localhost`. (tak, tak się da!)
     Dopuszczalne jest w takim przypadku używanie certyfikatów self-signed, odrzucanych domyślnie przez przeglądarki.
-  - Jeżeli serwisy mogą być dostępne ciągle, całodobowo podczas rekrutacji, to utwórz również konto administracyjne dla sprawdzajacego sprawozdanie na adres `admin <małpa> <główna domena serwisów KN Solvro (nie pwr.edu.pl)>`
 - Po postawieniu seriwsów zaprezentuj działanie panelu administracyjnego ToPWR, edytując/dodając/usuwając wpisy, zmieniając zdjęcia, itp.
 
-#### Backend
+#### Budowanie web-solvro-docs
 
-- Repozytorium backendu ToPWR znajduje się pod adresem [https://github.com/Solvro/backend-topwr](https://github.com/Solvro/backend-topwr).
-- Backend jest napisany w TypeScript, w frameworku [adonis](https://adonisjs.com/).
-- W repozytorium znajduje się gotowy Dockerfile używany "na produkcji" oraz plik `.env.example` zawierający zmienne środowiskowe wymagane do uruchomienia serwisu.
-- Zmienne środowiskowe można przekazać w standardowy sposób uruchamiając serwis, lub poprzez plik `.env`.
-- Backend wymaga połączenia z bazą danych PostgreSQL.
-- Serwis zapisuje wgrane pliki do lokalnego katalogu `storage`.
-  **Upewnij się, że te dane nie zostaną utracone po usunięciu i ponownym utworzeniu kontenera!**
-- Do niektórych funkcjonalności wymagane są również dane dostępowe do serwera pocztowego oraz Firebase.
-  Nie musisz ich konfigurować, nie są one konieczne do wykonania tego zadania.
-- Oprócz komend w pliku `package.json`, pomocne mogą się okazać również następujące komendy:
-  - `node ace` - główna komenda administracyjna adonisa
-  - `node ace migration:run` - uruchomienie migracji bazy danych - utworzenie tabel
-  - `node ace db:scrape` - import danych z produkcyjnych serwerów ToPWR
-  - `node ace create:user` - tworzenie nowego użytkownika, wybierz rolę `solvro_admin` przy tworzeniu
-- Możesz użyć ścieżek `/` i `/api/v1/departments?logo=1` do sprawdzenia, czy serwis działa.
+Szybki wstęp do budowania serwisu `web-solvro-docs`:
 
-#### Frontend
+- Do zbudowania serwisu wymagany jest nodejs, najlepiej najnowszy LTS.
+- Sklonuj repozytorium komendą `git clone https://github.com/Solvro/web-solvro-docs`
+- W pliku `package.json`, w obiekcie `allowScripts`, zmień dla `sharp` wartość z `false` na `true`
+- W katalogu repozytorium uruchom `npm ci`, by zainstalować wymagane biblioteki
+- Uruchom `npm run build`, by skompilować stronę do statycznych plików
+  - Podczas tego procesu mogą zostać wyświetlone różne ostrzeżenia - jest to spodziewane, o ile nie spowoduje przerwania procesu budowania.
+- Skompilowana strona powinna znajdować się w katalogu `dist` w repozytorium
 
-- Repozytorium frontendu ToPWR znajduje się pod adresem [https://github.com/Solvro/web-topwr](https://github.com/Solvro/web-topwr).
-- Repozytorium frontend nie posiada gotowego Dockerfile - jeżeli wybrany przez ciebie sposób deploy go wymaga, to musisz utworzyć go sam.
-  - Frontend jest napisany w TypeScript, w frameworku [Next.js](https://nextjs.org/).
-    Użyj dostępnych na internecie lub w repozytorium informacji, by utworzyć odpowiedni Dockerfile.
-  - W dokumentacji Next.js możesz znaleźć również gotowy Dockerfile, którego możesz użyć bezpośrednio, lub zmodyfikować/zoptymalizować.
-- Poprzez zmienne środowiskowe skieruj lokalną instancję frontendu na postawiony wcześniej backend.
-- Sprawdź, czy serwis działa, czy da się zalogować, itd.
+Napisz plik Dockerfile dla tego serwisu, który automatycznie zbuduje stronę, a następnie utworzy możliwie najmniejszy obraz wymagany do poprawnego jej wystawienia.
+Gotowy obraz nie powinien wymagać żadnych zewnętrznych plików do poprawnego działania.
 
 #### Opcjonalne zadania dodatkowe
 
-- Dokonaj kopii zapasowej serwisów, wprowadź jakieś zmiany, wczytaj kopię zapasową, zweryfikuj poprawność wczytanych danych
-- Backend na ścieżce `/metrics` wystawia metryki dla serwisu Prometheus - podepnij backend pod monitoring
-  - Podepnij Prometheusa pod Grafanę, utwórz dashboard prezentujący wybrane metryki (np. ilość requestów)
-  - Zdefiniuj alerty (np. na wysoki współczynnik odpowiedzi 5xx -> powiadomienie discord)
-    - Przetestuj zdefiniowane alerty (np. zepsuj połączenie z bazą i próbuj czytać dane z bazy)
+- Skonfiguruj swój serwer webowy tak, by wystawiał metryki dotyczące przychodzących żądań
+  - Podepnij go pod zbieracza metryk, a następnie grafanę, utwórz dashboard na podstawie danych
+  - Zdefiniuj alerty (np. na podejrzanie dużą ilość requestów/s -> powiadomienie discord)
+    - Przetestuj zdefiniowane alerty
+- Zastosuj znane ci techniki utwardzania kontenerów, by zmniejszyć uprawnienia, jakie otrzymuje aplikacja kontener i utrudnić jej potencjalną ucieczkę z kontenera
 - Inne, własne pomysły?
 
 **[Powrót do listy zadań](#zadania)**
