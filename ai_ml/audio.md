@@ -4,7 +4,7 @@ AI Audio to jedna z najszybciej rozwijających się dziedzin sztucznej inteligen
 
 Dźwięku nie trzeba jednak tylko słuchać, można go również zobaczyć.
 
-Otrzymasz próbkę audio, dopuszczalne jest a nawet preferowalne użycie próbki przez nas nie sugerowaną.
+Możesz wziąć jedną lub parę próbke ze zbioru [LJ Speech Dataset](https://www.kaggle.com/datasets/mathurinache/the-lj-speech-dataset) lub jakąkolwiek na jaką będziesz miał ochotę.
 
 ## Twoje zadanie:
 

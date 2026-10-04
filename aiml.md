@@ -19,13 +19,13 @@ W folderze [`ai_ml/`](./ai_ml/) znajdują się opisy poszczególnych zadań rekr
 
 Do wyboru są:
 
-1. **[Audio]("./ai_ml/audio.md")**  
+1. **[Audio](./ai_ml/audio.md)**  
 
-2. **[Reinforcement Learning]("./ai_ml/reinforcement_learning.md")**  
+2. **[Reinforcement Learning](./ai_ml/reinforcement_learning.md)**  
 
-3. **[Agents]("./ai_ml/agents.md")**
+3. **[Agents](./ai_ml/agents.md)**
 
-4. **[Computer Vision]("./ai_ml/computer_vision.md")**
+4. **[Computer Vision](./ai_ml/computer_vision.md)**
 
 ## Czego oczekujemy od rozwiązania?
 
