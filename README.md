@@ -12,7 +12,7 @@
   - [DevOps](./devops.md)
   - [UI/UX](./uiux.design.md)
 
-  - [AI/ML](./machine_learning.md)
+  - [AI/ML](./aiml.md)
 
   - [Project Management](./projectmanagement.md)
   - [Promotion](./promotion.md)
