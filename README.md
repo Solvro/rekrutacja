@@ -12,12 +12,10 @@
   - [DevOps](./devops.md)
   - [UI/UX](./uiux.design.md)
 
-  - [Machine Learning](./machine_learning.md)
-  - [Hardware](./hardware.md)
+  - [AI/ML](./machine_learning.md)
 
   - [Project Management](./projectmanagement.md)
   - [Promotion](./promotion.md)
-  - [Fundraising](./fundraising.md)
 --- 
 
 #### Motyw
