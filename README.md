@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./assets/logo.png" width="40%" />
+    <img src="./assets/Logo/Solvro_Logo_Color.svg" width="40%" />
 </div>
 
 # Zadanie rekrutacyjne KN Solvro
