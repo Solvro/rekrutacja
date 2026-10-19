@@ -50,7 +50,7 @@ Twoim zadaniem jest napisać Dockerfile dla serwisu [web-solvro-docs](https://gi
     Jeżeli nie masz własnej domeny, napisz do nas - wydzielimy ci subdomenę w rekrutacja.solvro.pl.
   - Jeżeli nie masz publicznego adresu IP, "utwórz" własną domenę edytując plik `/etc/hosts`, lub użyj subdomen `localhost`. (tak, tak się da!)
     Dopuszczalne jest w takim przypadku używanie certyfikatów self-signed, odrzucanych domyślnie przez przeglądarki.
-- Po postawieniu seriwsów zaprezentuj działanie panelu administracyjnego ToPWR, edytując/dodając/usuwając wpisy, zmieniając zdjęcia, itp.
+- Po postawieniu seriwsów zaprezentuj działanie aplikacji, otwierając jej różne strony i wyświetlając logi z kontenera i/lub serwerów proxy.
 
 #### Budowanie web-solvro-docs
 
