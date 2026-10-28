@@ -9,7 +9,7 @@ Nie oczekujemy od Ciebie, że będziesz mistrzem prowadzenia wielkich kampanii m
 ### Jak wziąć udział?
 1. Wybierz **dwa** z poniższych pytań, z czego **jedno o tematyce koktajli oraz jedno z sekcji "Pozostałe pytania"**.
 2. Stwórz odpowiedź w formacie pisemnym – ogranicza Cię tylko wyobraźnia!
-3. Prześlij swoją pracę za pomocą formularza: [https://forms.gle/b8EekiFMyUxMR7Lk8](https://forms.gle/b8EekiFMyUxMR7Lk8).
+3. Prześlij swoją pracę za pomocą formularza: https://forms.gle/6Fjpnh9bUw6Tfcuz6.
 
 ### Pytania 🤔
 
@@ -46,4 +46,4 @@ Jeśli masz jakiekolwiek pytania, skontaktuj się z nami – chętnie pomożemy 
 Nie znalazłeś obszaru, który Cię interesuje? Napisz do nas, a na pewno znajdziemy coś dla Ciebie!
 
 ### Odsyłanie zadań 🔗
-Linki do gotowych zadań powinny zostać przesłane za pomocą formularza: [https://forms.gle/b8EekiFMyUxMR7Lk8](https://forms.gle/b8EekiFMyUxMR7Lk8).
+Linki do gotowych zadań powinny zostać przesłane za pomocą formularza: https://forms.gle/6Fjpnh9bUw6Tfcuz6.
